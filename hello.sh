@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello from GitHub"
+echo "Hello from GitHub SST"
 date
 whoami
